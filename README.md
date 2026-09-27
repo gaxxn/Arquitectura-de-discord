@@ -18,7 +18,7 @@ Electron es un framework de código abierto diseñado para empaquetar aplicacion
 
 <img width="600" height="300" alt="657" src="https://github.com/user-attachments/assets/ae68ceca-66f5-4317-9fab-700b9c800c5a" />
 
-
+---
 
 
 Para Discord, Electron representa la solución central que permite mantener una única base de código entre la aplicación web y el cliente de escritorio. Esto agiliza de forma drástica el despliegue de nuevas funcionalidades de manera simultánea en todas las plataformas. Sin embargo, en el entorno móvil (iOS y Android), empaquetar una instancia de Chromium resultaría ineficiente debido a las restricciones de batería y memoria RAM. Por esta razón, las aplicaciones móviles de Discord están construidas sobre **React Native**, compartiendo la lógica de negocio basada en TypeScript pero renderizando componentes nativos del sistema operativo.
