@@ -10,7 +10,9 @@
 
 ## Discord está construido en electron
 
+
 <img width="980" height="150" alt="656" src="https://github.com/user-attachments/assets/9778df63-9786-47b6-b726-7c5f89b74725" />
+
 
 Electron es un framework de código abierto diseñado para empaquetar aplicaciones web dentro de un entorno ejecutable en sistemas operativos de escritorio como Windows, macOS y Linux. Su funcionamiento interno se apoya en dos pilares fundamentales, **Chromium**, que actúa como motor de renderizado para desplegar la interfaz gráfica de usuario, y **Node.js**, que proporciona acceso directo al sistema de archivos y recursos del sistema operativo local.
 
